@@ -1,0 +1,371 @@
+# Copyright (C) 2024 Divi Coding
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: CT Gallery for Divi and ACF 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ct-divi-acf-"
+"gallery\n"
+"POT-Creation-Date: 2024-10-14 18:58:49+00:00\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/modules/ACFGallery/ACFGallery.php:16
+msgid "ACF Gallery"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:32
+msgid "Content"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:35
+msgid "Elements"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:38
+msgid "Pagination"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:41
+msgid "Filters"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:48
+#: includes/modules/ACFGallery/ACFGallery.php:330
+msgid "Layout"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:51
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:70
+#: includes/modules/ACFGallery/ACFGallery.php:161
+msgid "Title"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:77
+msgid "Link"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:83
+msgid "Description"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:106
+msgid "Item"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:123
+msgid "Images Source"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:126
+msgid "ACF Gallery Field"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:127
+msgid "Manual Selection"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:133
+msgid "Images"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:134
+msgid "Choose the images that you would like to appear in the image gallery."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:140
+msgid "ACF Gallery Field Name"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:141
+msgid "Enter the ACF Gallery field name."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:147
+msgid "Order"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:150
+msgid "Descending"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:151
+msgid "Ascending"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:157
+msgid "Order By"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:160
+msgid "Maintain selection order"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:162
+msgid "Slug"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:163
+msgid "Date"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:164
+msgid "Random"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:170
+msgid "Show Overlay"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:173
+#: includes/modules/ACFGallery/ACFGallery.php:183
+#: includes/modules/ACFGallery/ACFGallery.php:193
+#: includes/modules/ACFGallery/ACFGallery.php:203
+#: includes/modules/ACFGallery/ACFGallery.php:224
+#: includes/modules/ACFGallery/ACFGallery.php:235
+#: includes/modules/ACFGallery/ACFGallery.php:246
+#: includes/modules/ACFGallery/ACFGallery.php:257
+#: includes/modules/ACFGallery/ACFGallery.php:283
+#: includes/modules/ACFGallery/ACFGallery.php:308
+#: includes/modules/ACFGallery/ACFGallery.php:364
+msgid "On"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:174
+#: includes/modules/ACFGallery/ACFGallery.php:184
+#: includes/modules/ACFGallery/ACFGallery.php:194
+#: includes/modules/ACFGallery/ACFGallery.php:204
+#: includes/modules/ACFGallery/ACFGallery.php:225
+#: includes/modules/ACFGallery/ACFGallery.php:236
+#: includes/modules/ACFGallery/ACFGallery.php:247
+#: includes/modules/ACFGallery/ACFGallery.php:258
+#: includes/modules/ACFGallery/ACFGallery.php:284
+#: includes/modules/ACFGallery/ACFGallery.php:309
+#: includes/modules/ACFGallery/ACFGallery.php:365
+msgid "Off"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:180
+msgid "Show Title"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:190
+msgid "Show Caption"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:200
+msgid "Show Description"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:210
+msgid "Image Click Action"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:213
+msgid "None"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:214
+msgid "Show Image In Lightbox"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:215
+msgid "Show All Images In Lightbox"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:221
+msgid "Title In Lightbox"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:232
+msgid "Caption In Lightbox"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:243
+msgid "Description In Lightbox"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:254
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:264
+msgid "Number"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:265
+msgid "Number of images to show per page. Leave empty to show all images"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:272
+msgid "Scroll Top Offset"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:273
+msgid "Space to leave on top of the main container after pagination scroll."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:280
+msgid "Show Previous/Next Buttons"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:291
+msgid "Previous Page Text"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:293
+msgid "Previous"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:298
+msgid "Next Page Text"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:300
+msgid "Next"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:305
+msgid "Show First/Last Buttons"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:316
+msgid "First Page Text"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:318
+msgid "First"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:323
+msgid "Last Page Text"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:325
+msgid "Last"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:333
+msgid "Mini Masonry"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:334
+msgid "Masonry"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:335
+msgid "Grid"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:342
+msgid "Items Width"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:343
+msgid "Minimum width for the masonry items."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:351
+msgid "Items Gap"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:352
+msgid "Gap for the masonry items."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:360
+msgid "Minify"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:361
+msgid ""
+"Whether or not place items on shortest column or keep exact order of list."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:373
+msgid "Columns"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:374
+msgid "Adjust the number of columns."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:395
+msgid "Gap"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:396
+msgid "Adjust the spacing between columns and above items as needed."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:417
+msgid "Item Background"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:418
+msgid "Image container background."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:424
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:425
+msgid "Here you can define a custom color for the zoom icon."
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:433
+msgid "Overlay Background Color"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:434
+msgid "Here you can define a custom color for the overlay"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:442
+msgid "Overlay Icon"
+msgstr ""
+
+#: includes/modules/ACFGallery/ACFGallery.php:443
+msgid "Here you can define a custom icon for the overlay"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CT Gallery for Divi and ACF"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://divicoding.com/downloads/divi-acf-masonry-gallery/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add a new module to the Divi collection that will show a gallery from an ACF "
+"gallery field or manual selection of images."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Divi Coding"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://divicoding.com"
+msgstr ""
